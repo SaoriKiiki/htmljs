@@ -1,0 +1,67 @@
+#lion {
+    height: 250px;
+    position: fixed;
+    z-index: 20;
+    bottom: 0px;
+    left: 0px;
+    transition: bottom 2s;
+}
+
+#background {
+    width: 1850px;
+    position: fixed;
+    z-index: 10;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+.patn {
+    position: fixed;
+    bottom: -200px;
+    transition: right 1000; 
+    width: 1800px;
+    z-index: 15;
+}
+
+.girl{
+    height: 250px;
+    position:fixed;
+    bottom: 50px;
+    right: -300px;
+    z-index: 40;
+    transition: right 15s; 
+}
+
+.second_girl{
+    height: 150px;
+    bottom: 180px;
+}
+
+.third_girl{
+    height: 250px;
+  
+}
+
+#score {
+    position: fixed;
+    top: 100px;
+    right: 100px;
+    z-index: 50;
+}
+
+.flor {
+    height: 200px;
+    width: auto;
+    position: fixed;
+    top: 200px;
+    left: 300px;
+}
+
+.pajaro {
+    height: 200px;
+    position: fixed;
+    top: 200px;
+    left: 1000px;
+}
+
